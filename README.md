@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Dylan 👋
 
-<!--
-**dylanyeojy/dylanyeojy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Software Engineering student at Sunway University, Malaysia.
 
-Here are some ideas to get you started:
+- 🔨 Currently building a mobile app for my capstone project with React Native and FastAPI
+- 🤖 Did freelance work building voice AI agents and n8n automations for clients
+- 🏆 Won Sunway Tech Club's mini hackathon with a local RAG app
+- 🔭 2nd runner-up at MSTB's national Test Design Competition
+- 🌱 Looking for an internship starting late January 2027
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I've worked with:** Python, TypeScript, JavaScript, Java, SQL, React Native, FastAPI, Supabase, n8n
+
+📫 [LinkedIn](https://linkedin.com/in/dylanyeojy) · dylanyeois@gmail.com
+
