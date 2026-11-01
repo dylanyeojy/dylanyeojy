@@ -6,7 +6,7 @@ Final-year Software Engineering student at Sunway University, Malaysia.
 - 🤖 Did freelance work building voice AI agents and n8n automations for clients
 - 🏆 Won Sunway Tech Club's mini hackathon with a local RAG app
 - 🔭 2nd runner-up at MSTB's national Test Design Competition
-- 🌱 Looking for an internship starting late January 2027
+- 🌱 Looking for an internship starting 25 January 2027
 
 **Tech I've worked with:** Python, TypeScript, JavaScript, Java, SQL, React Native, FastAPI, Supabase, n8n
 
